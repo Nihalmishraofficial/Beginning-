@@ -18,8 +18,8 @@ class calc:
         self.b=b
         print(self.a/self.b)
 obj=calc()
-obj.add(40,30)    
-obj.sub(1000,100)
-obj.mul(10,20)
-obj.div(10,20) 
+obj.add()    
+obj.sub()
+obj.mul()
+obj.div() 
         
